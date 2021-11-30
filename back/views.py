@@ -1,5 +1,4 @@
 from django.shortcuts import render
-import pytube
 from .models import Categories, Playlists
 import pytube
 
